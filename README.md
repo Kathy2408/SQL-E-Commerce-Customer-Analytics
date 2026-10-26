@@ -24,7 +24,7 @@ Analysis of customer purchasing behavior, cohort retention, churn, and revenue p
 🖥️Query: [1_customer_segmentation.sql](/Contoso/1_customer_segmentation.sql)
 
 📈 **Visualization**
-![Customer Segmentation](/Contoso/customersegment.png)
+![Customer Segmentation](/Access/customersegment.png)
 
 📊 **Key Findings**
 
@@ -60,7 +60,7 @@ Low-value: Introduce cost-effective re-engagement campaigns and targeted discoun
 
 📈 **Visualization:**
 
-![cohort_analysis](/Contoso/Customer%20Revenue%20by%20first%20Purchase%20Year.png)
+![cohort_analysis](/Access/Customer%20Revenue%20by%20first%20Purchase%20Year.png)
 
 📊 **Key Findings**
 
@@ -95,7 +95,7 @@ ORDER BY
      year_month;
 ```
 
-![Monthly Net Revenue and Customers](/Contoso/monthly_net_revenue.png)
+![Monthly Net Revenue and Customers](/Access/monthly_net_revenue.png)
 
 📊 **Key Findings**
 
@@ -112,7 +112,7 @@ At the customer level, I analyze spending behavior and how customer value change
 
 📈 **Visualization:**
 
-![Customer Retention](/Contoso/churn_retention_stacked_chart_blue.png)
+![Customer Retention](/Access/churn_retention_stacked_chart_blue.png)
 
 📊 **Key Findings**
 
