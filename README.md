@@ -1,5 +1,8 @@
 
 ## Background
+📂 **About the Dataset**
+This project uses the Microsoft Contoso dataset, a synthetic retail dataset that simulates sales transactions, customer information, products, and business operations. The PostgreSQL database used in this project was created and prepared by [Kelly Adams](https://www.linkedin.com/in/kellyjianadams/).
+
 Analysis of customer purchasing behavior, cohort retention, churn, and revenue per customer for an e-commerce company to identify customer trends, improve retention strategies, and maximize long-term customer value.
 
 ## Business Questions
